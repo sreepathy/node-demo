@@ -12,4 +12,5 @@ to run this package,
 # Assignment:
 1. Dockerize this application by using a simple Dockerfile
 2. Make sure that you are able to get the application running in docker
-3. Change the dockerfile to expose this application on port 8888 on your machine
+3. Change the dockerfile to expose this application on port 8888 on your machine (ie, You should be able to access the application on http://localhost:8888) 
+4. Note to hackers: Do not change the port in https://github.com/sreepathy/node-demo/blob/main/index.js, this is not a coding competition![image](https://user-images.githubusercontent.com/6497933/206645145-2beb32a6-c561-429e-b46d-f31017d7ea79.png).
